@@ -1,0 +1,56 @@
+*, *:before, *:after {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+body {
+	color: #333;
+	font: 17.5px 'Open Sans', sans-serif;
+	padding: $ratio#{em};
+
+	@media (min-width: $m){
+		padding: 0;
+	}
+}
+
+p {
+	line-height: $ratio#{em};
+	margin-bottom: $ratio-inv#{em};
+}
+
+header,
+footer,
+article {
+	margin: 0 auto;
+	max-width: 100%;
+
+	@media (min-width: $m){
+		max-width: $m;
+	}
+
+	@media (min-width: $l){
+		max-width: $l;
+	}
+
+	@media (min-width: $xl){
+		max-width: $xl;
+	}
+}
+
+pre {
+	margin-bottom: $ratio-inv#{em};
+
+	code {
+		font-family: 'Bitstream Vera Sans Mono','Courier', monospace;
+	}
+}
+
+a {
+	color: #333;
+	text-decoration: none;
+
+	&:hover {
+		text-decoration: underline;
+	}
+}

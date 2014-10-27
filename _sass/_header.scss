@@ -1,0 +1,21 @@
+header {
+	img,
+	p {
+		@include inline-block;
+	}
+
+	h1 {
+		padding: $ratio-inv#{em} 0;
+	}
+
+	img {
+		@include border-radius(50px);
+		background: green;
+		max-width: 100px;
+	}
+
+	p {
+		max-width: calc(100% - 100px);
+		padding: 0 $ratio-inv#{em};
+	}
+}

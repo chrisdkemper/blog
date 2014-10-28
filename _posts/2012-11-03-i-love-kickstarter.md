@@ -2,6 +2,7 @@
 layout: post
 title:  "I love Kickstarter."
 date:   2012-11-03 11:39:09
+comments: true
 categories: misc
 ---
 

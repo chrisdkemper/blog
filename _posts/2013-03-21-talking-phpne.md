@@ -2,6 +2,7 @@
 layout: post
 title:  "Talking at PHPNE"
 date:   2013-03-21 11:39:09
+comments: true
 categories: misc speaking
 ---
 

@@ -4,6 +4,7 @@ title:  "Foundation Version Control for Web Developers."
 date:   2012-05-20 11:39:09
 comments: true
 categories: misc
+summary: I wrote a book, called Foundation Version Control for Web Developers (Foundations Apress) - Amazon.co.uk - Chris Kemper, Ian Oxley - 9781430239727 - Books
 ---
 
 Since my new site is finally up, it means I should finally write a post regarding the book written by myself, and [Ian Oxley](http://ianoxley.com/). Although it's been out for a number of months now, I still sometimes miss the whole writing experience, although it's one of the toughest things I've done to date. The start of the book went rather smoothly, but then I started falling behind, and the timescales started getting tighter, and tighter. I can safely say that some of these timescale issues were down to my poor management, because I always just thought "It can't be THAT hard.", well I can safely say, it is.

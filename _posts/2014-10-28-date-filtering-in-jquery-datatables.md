@@ -4,6 +4,7 @@ title:  "Date filtering in jQuery DataTables"
 date:   2014-10-28 11:39:09
 comments: true
 categories: jQuery
+summary: I explain a way to add date filtering to jQuery DataTable
 ---
 
 On a recent project, I had to add date filtering to a jQuery DataTable instance, which isn't as easy as I'd hoped. The [documentation](http://datatables.net/plug-ins/filtering/) implies this is possible, but after looking it up, couldn't find anything helpful.

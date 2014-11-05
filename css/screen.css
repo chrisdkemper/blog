@@ -290,23 +290,33 @@ header p {
   padding: 0 0.61803em;
 }
 
-/* line 1, ../_sass/_main.scss */
+/* line 3, ../_sass/_main.scss */
+header h1 a:hover {
+  color: #1295cc;
+  text-decoration: none;
+}
+
+/* line 9, ../_sass/_main.scss */
 article {
   border-bottom: 1px solid #ccc;
   margin-bottom: 1.61803em;
 }
-/* line 5, ../_sass/_main.scss */
+/* line 13, ../_sass/_main.scss */
 article .content {
   padding: 0 0 1.61803em 0;
 }
-/* line 9, ../_sass/_main.scss */
+/* line 17, ../_sass/_main.scss */
 article .date {
   display: block;
   font-weight: bold;
   margin: 0 0 0.61803em;
 }
-/* line 15, ../_sass/_main.scss */
-article h1 a {
+/* line 23, ../_sass/_main.scss */
+article h2, article a {
   color: #1295cc;
+}
+/* line 27, ../_sass/_main.scss */
+article a {
+  font-weight: bold;
   text-decoration: none;
 }

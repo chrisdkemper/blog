@@ -4,6 +4,7 @@ title:  "I love Kickstarter."
 date:   2012-11-03 11:39:09
 comments: true
 categories: misc
+summary: I do love Kickstarter
 ---
 
 Since finding out about Kickstater back in March, I've been in love with the idea of micro funding and what it's able to achieve. The first project I backed was [Eqo Optics](http://www.kickstarter.com/projects/1697516916/eqo-optics-handmade-eyewear-from-recycled-skateboa) and after that I got the fever. Thus far, I've backed 9 projects although In some cases my lack of funds made me miss some great opportunities such as [Elevation Dock](http://www.kickstarter.com/projects/hop/elevation-dock-the-best-dock-for-iphone) or [OUYA](http://www.kickstarter.com/projects/ouya/ouya-a-new-kind-of-video-game-console).

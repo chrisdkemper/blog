@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "A new site, eventually "
+title:  "A new site, eventually"
 date:   2012-06-10 11:39:09
 comments: true
 categories: frontend
+summary: A new website..
 ---
 
 Since my previous site, a placeholder page I built on the Megabus home from the .net awards in 2010 I've been saying I'll build a new one, and now, I finally have! Due to this being nearly 2 years coming, I've decided to just finally get something out there actually allows me to blog, and show any potential side projects I have going on (wait and see for that one). I was initially going to build the site in Drupal, then in Wordpress, then in PyroCMS. Although all of these systems would have been perfectly adiquete, I then suddenly realised, I know how to code, I don't need a CMS.

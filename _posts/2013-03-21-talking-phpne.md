@@ -4,6 +4,7 @@ title:  "Talking at PHPNE"
 date:   2013-03-21 11:39:09
 comments: true
 categories: misc speaking
+summary: I explain a few things I've learned from speaking at PHPNE
 ---
 
 On Tuesday, the 16th of April, I gave a talk at PHP North East, titled "Silex: From nothing, to an API". This was my first real talk, so it was really nerve wracking for me. Initially, I planned not to be the guy who wrote his presentation the night before, but due to certain things, that turned out to be what happened.

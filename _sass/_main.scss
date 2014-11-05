@@ -1,3 +1,11 @@
+header h1 a {
+
+	&:hover {
+		color: #1295cc;
+		text-decoration: none;
+	}
+}
+
 article {
 	border-bottom: 1px solid #ccc;
 	margin-bottom: $ratio#{em};
@@ -12,8 +20,12 @@ article {
 		margin: 0 0 $ratio-inv#{em};
 	}
 
-	h1 a {
+	h2, a {
 		color: #1295cc;
+	}
+
+	a {
+		font-weight: bold;
 		text-decoration: none;
 	}
 }

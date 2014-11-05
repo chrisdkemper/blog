@@ -7,7 +7,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>{{ page.title }} | chrisdkemper.co.uk</title>
-        <meta name="description" content="">
+        <meta name="description" content="{{ page.summary }}">
         <meta name="author" content="Chris Kemper">
         <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
         <link rel="icon" href="/favicon.ico" type="image/x-icon">
@@ -22,7 +22,7 @@
     </head>
     <body>
         <header>
-            <h1>I'm <strong>Chris Kemper</strong>, and this is my blog</h1>
+            <h1><a href="/{{ site.baseurl }}">&laquo;</a> I'm <a href="http://chrisdkemper.co.uk" title="The homepage of Chris Kemper, a PHP developer (Drupal, Laravel, Silex, etc) and a Front&ndash;end developer, based in the North East."><strong>Chris Kemper</strong></a>, and this is my blog</h1>
         </header>
         <section>
             {{ content }}

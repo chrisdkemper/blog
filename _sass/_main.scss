@@ -29,3 +29,13 @@ article {
 		text-decoration: none;
 	}
 }
+
+.lost {
+	border: 0 none;
+	padding: $ratio#{em} 0;
+	text-align: center;
+
+	img {
+		padding: $ratio#{em} 0;
+	}
+}

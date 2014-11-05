@@ -320,3 +320,14 @@ article a {
   font-weight: bold;
   text-decoration: none;
 }
+
+/* line 33, ../_sass/_main.scss */
+.lost {
+  border: 0 none;
+  padding: 1.61803em 0;
+  text-align: center;
+}
+/* line 38, ../_sass/_main.scss */
+.lost img {
+  padding: 1.61803em 0;
+}

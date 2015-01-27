@@ -1,4 +1,4 @@
 name: Chris Kemper - A blog
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 baseurl: /blog

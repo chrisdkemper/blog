@@ -126,3 +126,11 @@ h6 {
     @extend .zeta;
     @extend %hN;
 }
+
+p code {
+    padding: 0.25em 0.5em;
+    color: #fff;
+    background-color: $lightblue;
+    font-weight: lighter;
+    font-family: Monaco,'MonacoRegular',monospace;
+}

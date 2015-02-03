@@ -103,7 +103,7 @@ h1 {
 }
 
 h2 {
-    @extend .delta;
+    @extend .gamma;
     @extend %hN;
 }
 
@@ -133,4 +133,19 @@ p code {
     background-color: $lightblue;
     font-weight: lighter;
     font-family: Monaco,'MonacoRegular',monospace;
+}
+
+blockquote {
+    border-left: 4px solid #ddd;
+    padding: 0 $ratio#{em};
+    margin: $ratio#{em} 0;
+    color: #777777; 
+}
+
+blockquote > :first-child {
+    margin-top: 0; 
+}
+
+blockquote > :last-child {
+    margin-bottom: 0; 
 }
